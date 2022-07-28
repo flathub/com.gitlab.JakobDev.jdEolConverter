@@ -27,7 +27,7 @@ modules:
     sources:
       - type: git
         url: https://gitlab.com/JakobDev/jdEolConverter.git
-        tag: '1.0'
-        commit: cf9111bf34065d32749a4dc78cdabb7c6199065b
+        tag: '1.1'
+        commit: dce1d3cd57d99517021bfa247090e06b6b68b733
         x-checker-data:
-            type: git
+          type: git
